@@ -1,0 +1,21 @@
+html,body{
+    margin:0;
+    padding:0;
+    outline:none;
+    width: 100%;
+    min-width:max-content;
+  }
+
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  
+  li{
+    list-style: none;
+  }
+
+  @font-face {
+    font-family: "D2K";
+    src: url(/src/assets/fonts/K2D-Regular.9bec958d.ttf);
+}
